@@ -57,7 +57,9 @@
 
 - [Тестирование сайта "Собаседник"](https://docs.google.com/spreadsheets/d/1AU8nQadtpwr5EURUa9UqbTIooOcKJ1ov4d2Er9nOLqE/edit?usp=sharing)
 
-- [Баг-репорты в Jira на баги сайта "Собасендник"](https://fahrullinaai.atlassian.net/jira/software/projects/TEST/boards/1?atlOrigin=eyJpIjoiZTgyZDA3MGYzYjM3NDc2ZmFhNzk3NzE2ZTZiOTg0YzciLCJwIjoiaiJ9)
+- [Баг-репорты в Jira на баги сайта "Собаседник"](https://fahrullinaai.atlassian.net/jira/software/projects/TEST/boards/1?atlOrigin=eyJpIjoiZTgyZDA3MGYzYjM3NDc2ZmFhNzk3NzE2ZTZiOTg0YzciLCJwIjoiaiJ9)
+
+- [Коллекция в Postman](https://alia-fakhrullina-6004429.postman.co/workspace/Alia-Team's-Workspace~6e2e8e0e-7506-4010-874e-8ffe7f2e5156/collection/47560482-ff9b0568-d0d3-4150-81b2-e909eee9f710?action=share&creator=47560482) с использованием открытого [API Petstore в Swagger](https://petstore.swagger.io/#/)
 
 ---
 
